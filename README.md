@@ -10,4 +10,4 @@ a Flutter project that does real-time currency conversion.
 
 
 ## Functionalities
--The APP includes API with json to show updated currency value.
+-The APP includes API with Json to show updated currency value.
