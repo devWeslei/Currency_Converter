@@ -1,7 +1,9 @@
 # Currency_Converter   
-## Running
 
-![Preview-Screens](https://github.com/devWeslei/Currency_Converter/blob/main/assets%20conversor/demo.gif)
+## Running
+<p align="center">
+  <img alt="Demo" src="https://github.com/devWeslei/Currency_Converter/blob/main/assets%20conversor/demo.gif">
+</p>
 
 
 ## About this Project
